@@ -1,0 +1,238 @@
+# German translations for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-05 09:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Belgie"
+msgstr "Belgien"
+
+msgid "Bewolkt"
+msgstr "Bewölkt"
+
+msgid "Bewolkt met kans op buien"
+msgstr "Bewölkt mit Schauergefahr"
+
+msgid "Buien en kans op onweer"
+msgstr "Schauer und Gewittergefahr"
+
+msgid "Download fout: Controleer spelling of vraag om de plaatsnaam toe te voegen aan de database."
+msgstr "Downloadfehler: Schreibweise prüfen oder Ortsnamen zur Datenbank hinzufügen lassen."
+
+msgid "Enter plaatsnaam e.g. london or london/gb or london_us"
+msgstr "Ortsnamen eingeben, z. B. london oder london/gb oder london_us"
+
+msgid "Europa"
+msgstr "Europa"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "Favoriete Locaties"
+msgstr "Favoritenorte"
+
+msgid "Geen info"
+msgstr "Keine Informationen"
+
+msgid "Geen internet"
+msgstr "Keine Internetverbindung"
+
+msgid "GevoelsTemp "
+msgstr "Gefühlte Temperatur "
+
+msgid "GevoelsTemp NA°C"
+msgstr "Gefühlte Temperatur NA°C"
+
+msgid "Helder met kans nevel"
+msgstr "Klar mit Nebelgefahr"
+
+msgid "Heldere nacht"
+msgstr "Klare Nacht"
+
+msgid "Lichte bewolking"
+msgstr "Leicht bewölkt"
+
+msgid "Locatie +"
+msgstr "Ort +"
+
+msgid "Locatie -"
+msgstr "Ort -"
+
+msgid "Locatie:"
+msgstr "Ort:"
+
+msgid "Momenteel geen update beschikbaar"
+msgstr "Derzeit kein Update verfügbar"
+
+msgid "Nederland"
+msgstr "Niederlande"
+
+msgid "Noord"
+msgstr "Nord"
+
+msgid "NoordOost"
+msgstr "Nordost"
+
+msgid "NoordWest"
+msgstr "Nordwest"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Oost"
+msgstr "Ost"
+
+msgid "Overwegend   helder"
+msgstr "Überwiegend klar"
+
+msgid "Overwegend   zonnig"
+msgstr "Überwiegend sonnig"
+
+msgid "Package was NOT Updated"
+msgstr "Paket wurde NICHT aktualisiert"
+
+msgid "Package will be Updated"
+msgstr "Paket wird aktualisiert"
+
+msgid "Update beschikbaar, wil je de update toepassen?"
+msgstr "Update verfügbar, Update anwenden?"
+
+msgid "WeerInfo"
+msgstr "Wetterinfo"
+
+msgid "West"
+msgstr "West"
+
+msgid "Windrichting "
+msgstr "Windrichtung "
+
+msgid "Windrichting NA"
+msgstr "Windrichtung NA"
+
+msgid "Wisselend bewolkt lichte sneeuwval"
+msgstr "Wechselnd bewölkt, leichter Schneefall"
+
+msgid "Wisselvallig met kans op nevel"
+msgstr "Wechselhaft mit Nebelgefahr"
+
+msgid "Zon met (lichte) bewolking"
+msgstr "Sonne mit (leichter) Bewölkung"
+
+msgid "Zon met kans op buien of onweer"
+msgstr "Sonne mit Schauer- oder Gewittergefahr"
+
+msgid "Zon met kans op nevel"
+msgstr "Sonne mit Nebelgefahr"
+
+msgid "Zonnig / Helder"
+msgstr "Sonnig / Klar"
+
+msgid "Zonnig met kans op buien"
+msgstr "Sonnig mit Schauergefahr"
+
+msgid "Zuid"
+msgstr "Süd"
+
+msgid "ZuidOost"
+msgstr "Südost"
+
+msgid "ZuidWest"
+msgstr "Südwest"
+
+msgid "Zwaar bewolkt"
+msgstr "Stark bewölkt"
+
+msgid "Zwaar bewolkt  buien mogelijk"
+msgstr "Stark bewölkt, Schauer möglich"
+
+msgid "Zwaar bewolkt  hevige buien"
+msgstr "Stark bewölkt, heftige Schauer"
+
+msgid "Zwaar bewolkt  onweersbuien"
+msgstr "Stark bewölkt, Gewitter"
+
+msgid "Zwaar bewolkt en zware sneeuwval"
+msgstr "Stark bewölkt und starker Schneefall"
+
+msgid "Zwaar bewolkt lichte sneeuwval"
+msgstr "Stark bewölkt, leichter Schneefall"
+
+msgid "Zwaarbewolkt winterse neerslag"
+msgstr "Stark bewölkt, winterlicher Niederschlag"
+
+msgid "Automatische update is momenteel niet beschikbaar."
+msgstr "Automatische Aktualisierung ist derzeit nicht verfügbar."
+
+msgid "Geen weerbericht beschikbaar"
+msgstr "Kein Wetterbericht verfügbar"
+
+msgid "Weerbericht tijdelijk niet beschikbaar"
+msgstr "Wetterbericht vorübergehend nicht verfügbar"
+
+msgid "HetWeer"
+msgstr "HetWeer"
+
+#, python-brace-format
+msgid "BuienRadar & WeerInfo, versie {version}"
+msgstr "BuienRadar & Wetterinfo, Version {version}"
+
+msgid "Weerbericht"
+msgstr "Wetterbericht"
+
+msgid "Temperatuur"
+msgstr "Temperatur"
+
+msgid "Buienradar"
+msgstr "Regenradar"
+
+msgid "Motregenradar"
+msgstr "Nieselregenradar"
+
+msgid "Onweerradar"
+msgstr "Gewitterradar"
+
+msgid "Wolkenradar"
+msgstr "Wolkenradar"
+
+msgid "Mistradar"
+msgstr "Nebelradar"
+
+msgid "Hagelradar"
+msgstr "Hagelradar"
+
+msgid "Sneeuwradar"
+msgstr "Schneeradar"
+
+msgid "Zonradar"
+msgstr "Sonnenradar"
+
+msgid "Zonkracht-UV"
+msgstr "UV-Index"
+
+msgid "Satelliet"
+msgstr "Satellit"
+
+msgid "Enter Ortsname, z.B. Ratingen, London/GB oder München"
+msgstr "Ortsname eingeben, z.B. Ratingen, London/GB oder München"
+
+msgid "Ort nicht gefunden: Schreibweise prüfen oder z.B. Stadt/Land eingeben."
+msgstr "Ort nicht gefunden: Schreibweise prüfen oder z.B. Stadt/Land eingeben."
+
+msgid "Downloadfehler: Schreibweise prüfen oder Stadt/Land eingeben."
+msgstr "Downloadfehler: Schreibweise prüfen oder Stadt/Land eingeben."
+
